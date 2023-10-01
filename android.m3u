@@ -284,7 +284,7 @@ http://127.0.0.1:88/https://www.twitch.tv/tvrodopi
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/MFJJOuf.jpg",OPEN SPORT
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/MFJJOuf.jpg",OPEN SPORT 1
-#EXTINF:3038 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/JMotNwZ.png",ART
+#EXTINF:3038 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/JMotNwZ.png",ART TV
 https://rumble.com/live-hls/3g2sdc/playlist.m3u8?
 #EXTINF:5470 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/xbLCkD6.jpg",ITV
 https://channel.streams.ovh:1936/ioanninatv/ioanninatv/playlist.m3u8
