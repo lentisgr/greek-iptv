@@ -292,5 +292,7 @@ https://channel.streams.ovh:1936/ioanninatv/ioanninatv/playlist.m3u8
 https://neon.streams.gr:8081/telekriti/index.m3u8
 
 ALTER
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="",OMEGA CY
+http://l1.cloudskep.com/tst/omcy/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",SAT
 https://live.cast-control.eu/samiaki/samiaki/playlist.m3u8
