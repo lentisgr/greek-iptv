@@ -296,3 +296,5 @@ ALTER
 http://l1.cloudskep.com/tst/omcy/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",SAT
 https://live.cast-control.eu/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",CYPRUS TV
+https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
